@@ -3,7 +3,8 @@ package org.add;
 public class GreenTech {
 	
 	public void greenOmr() {
-		System.out.println("Ashwin");
+		System.out.println("Balaji");
+		
 		System.out.println("GreenTech Omr : Balamurugan Garden, Okkiam,"
 				+ "Landmark: ICICI Bank Upstairs, Plot No.19, "
 				+ "Rajiv Gandhi Salai, Opposite to Sankeetha hotel, "
