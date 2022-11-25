@@ -3,7 +3,7 @@ package org.add;
 public class GreenTech {
 	
 	public void greenOmr() {
-		
+		System.out.println("Ashwin");
 		System.out.println("GreenTech Omr : Balamurugan Garden, Okkiam,"
 				+ "Landmark: ICICI Bank Upstairs, Plot No.19, "
 				+ "Rajiv Gandhi Salai, Opposite to Sankeetha hotel, "
@@ -36,6 +36,8 @@ public class GreenTech {
 		System.out.println("GreenTech AnnaNagar : 4th floor, W122, 3rd Ave, "
 				+ "W Block, Annanagar East, Chennai-600040");
 	}
+	
+
 	public static void main(String[] args) {
 		
 		//object creation
